@@ -3,8 +3,8 @@
 Estado del proyecto en construccion
 Para ejecutar el sistema debes poner 
 
----npm install react---
+'''npm install react'''
 
-Sistema de reistro 2
+Eso va cartagena 
 
-eso va para cartagena 
+
