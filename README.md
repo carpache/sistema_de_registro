@@ -5,4 +5,6 @@ Para ejecutar el sistema debes poner
 
 ---npm install react---
 
-Sistema de reistro 2;
+Sistema de reistro 2
+
+eso va para cartagena 
